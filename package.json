@@ -1,0 +1,17 @@
+{
+  "name": "demo-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^15.3.3"
+  },
+  "dependencies": {
+    "@electron/remote": "^2.0.1"
+  }
+}
